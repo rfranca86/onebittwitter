@@ -1,0 +1,23 @@
+Planejamento Criativo
+OneBitTweet
+
+Sintetizacao da ideia
+
+  - Uma rede social basead no Twitter onde o usuário poderá seguir outros usuários,
+  tweetar e retweetar, curtir tweets e etc.
+
+Sintetização das funções do APP
+
+  . Criar perfil de usuário
+  . Editar perfil de usuário
+  . Remover perfil de usuário
+  . Seguir usuários
+  . Deixar de seguir usuários
+  . Feed (lista de tweets)
+  . Criar tweet
+  . Deletar tweet
+  . Curtir tweets
+  . Atualizar Tweets
+  . Pesquisar Tweets ou usuários
+  . Lista de trending topics
+  . Retweetar

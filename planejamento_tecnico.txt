@@ -1,0 +1,58 @@
+Planejamento Criativo
+OneBitTweet
+
+Mapeamento das Actions
+
+  - Users
+    . create
+    . update
+    . destroy
+    . current
+    . show
+    . following
+    . followers
+
+  - Tweet
+    . index
+    . show
+    . create
+    . destroy
+    . update
+  
+  - Like
+    . create
+    . destroy
+
+  - Follow
+    . create
+    . destroy
+
+  - Search
+    . index
+
+  - Trending
+    . index
+
+  - Timeline
+    . index
+
+  - Mapeamento do DB
+    - replicar a imagem do documento tecnico do DB no dbdesigner
+
+  - Stack
+    . Ambiente
+      . Docker
+      . Docker Compose
+
+    . API
+      . Ruby on Rails
+      . Buscas
+        . Elasticsearch
+      . Background Jobs
+        . Redis
+        . Sidekiq
+
+    . Cliente
+      . React
+        . Axios
+        . Redux
